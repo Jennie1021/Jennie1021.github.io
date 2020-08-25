@@ -95,7 +95,8 @@ analytics:
 author:
   name             : "Jinsook Lee(Jennie)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Data scientist** "
+  bio              : "**Data scientist** at Korea Univ.
+  Interested in GNN & Sustainability"
   location         : "Seoul, Korea"
   email            : gupye123@gmail.com
   links:
