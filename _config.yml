@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Less How More Why"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Jinsook Lee(Jennie)"
+description              : "이번에는 좀 제대로 기록해보자!"
 url                      : "http://Jennie_1021.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,8 +96,8 @@ author:
   name             : "Jinsook Lee(Jennie)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Data scientist** "
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul, Korea"
+  email            : gupye123@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
