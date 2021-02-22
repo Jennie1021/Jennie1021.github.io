@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Jinsook Lee(Jennie)"
-  avatar           : "/assets/images/profile image.jpg"
+  avatar           : "![profile image](https://user-images.githubusercontent.com/54824358/108674995-82976180-7529-11eb-9e65-156edf3d8095.jpg)"
   bio              : "Data scientist at Korea Univ."
   location         : "Seoul, Korea"
   email            : gupye@korea.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:gupye@korea.ac.kr"
+      #url: "mailto:gupye@korea.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
