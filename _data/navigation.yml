@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "menu test"
+  - title: "About"
     url: https://jennie1021.github.io/
-  - title: "Recom"
-    url: /_Recommender system/
+  - title: "Project"
+    url: /project/
+  - title: "Contact"
+    url: /contact/
